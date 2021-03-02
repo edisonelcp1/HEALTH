@@ -513,7 +513,7 @@ Peso	Método
 1	Balanza
 1	Balanza
 1	Balanza
-1.2	Balanza
+1	Balanza
 1	Balanza
 1	Balanza
 1	Balanza
