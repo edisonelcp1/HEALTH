@@ -1,0 +1,170 @@
+dif	nombre
+-0.412	A020095_Bicarbonato de sodio polvo
+-0.544	A020095_Bicarbonato de sodio polvo
+-0.476	A020095_Bicarbonato de sodio polvo
+-0.425	A020095_Bicarbonato de sodio polvo
+-0.441	A020095_Bicarbonato de sodio polvo
+0.000	A020115_Omeprazol suspensión 2 mg/mL
+	A020115_Omeprazol suspensión 2 mg/mL
+0.000	A020115_Omeprazol suspensión 2 mg/mL
+0.429	A020115_Omeprazol suspensión 2 mg/mL
+	B010031_Heparina 100 u/mL
+0.000	B010047_Heparina 100 u/mL Bolsax250mL [AR]
+0.000	B010047_Heparina 100 u/mL Bolsax250mL [AR]
+0.154	B010047_Heparina 100 u/mL Bolsax250mL [AR]
+0.500	B010047_Heparina 100 u/mL Bolsax250mL [AR]
+0.000	B010047_Heparina 100 u/mL Bolsax250mL [AR]
+0.000	B010047_Heparina 100 u/mL Bolsax250mL [AR]
+0.000	B050071_Cloruro de potasio 7,5/500 Salino 
+	B050071_Cloruro de potasio 7,5/500 Salino 
+0.000	B050071_Cloruro de potasio 7,5/500 Salino 
+0.000	B050073_Cloruro de potasio 10/1000 Salino
+	B050073_Cloruro de potasio 10/1000 Salino
+-0.500	B050073_Cloruro de potasio 10/1000 Salino
+0.000	B050073_Cloruro de potasio 10/1000 Salino
+0.125	B050074_Cloruro de potasio 7,5/500 Lactato
+0.000	B050074_Cloruro de potasio 7,5/500 Lactato
+0.750	B050074_Cloruro de potasio 7,5/500 Lactato
+0.081	B050076_Cloruro de potasio 10/1000 Lactato
+0.053	B050076_Cloruro de potasio 10/1000 Lactato
+	B050076_Cloruro de potasio 10/1000 Lactato
+-0.367	B050079_Cloruro de potasio 40 mEq (20mL) /100 mL [AR]
+	B050079_Cloruro de potasio 40 mEq (20mL) /100 mL [AR]
+0.857	B050079_Cloruro de potasio 40 mEq (20mL) /100 mL [AR]
+0.818	B050079_Cloruro de potasio 40 mEq (20mL) /100 mL [AR]
+0.040	B050127_Cloruro de potasio 20 mEq (10mL) /100 mL
+-0.118	B050127_Cloruro de potasio 20 mEq (10mL) /100 mL
+0.038	B050127_Cloruro de potasio 20 mEq (10mL) /100 mL
+	B050127_Cloruro de potasio 20 mEq (10mL) /100 mL
+-0.091	B050127_Cloruro de potasio 20 mEq (10mL) /100 mL
+0.000	B050129_Cloruro de potasio 5/500 mL  Solución 1:1
+-0.231	B050129_Cloruro de potasio 5/500 mL  Solución 1:1
+0.818	B050129_Cloruro de potasio 5/500 mL  Solución 1:1
+-0.091	B050129_Cloruro de potasio 5/500 mL  Solución 1:1
+0.000	B050129_Cloruro de potasio 5/500 mL  Solución 1:1
+-0.231	B050129_Cloruro de potasio 5/500 mL  Solución 1:1
+-0.167	B050129_Cloruro de potasio 5/500 mL  Solución 1:1
+-0.063	B050130_Sulfato de magnesio (40 mg/mL)
+0.831	B050130_Sulfato de magnesio (40 mg/mL)
+	B050130_Sulfato de magnesio (40 mg/mL)
+-0.032	B050130_Sulfato de magnesio (40 mg/mL)
+0.047	B050131_Sulfato de magnesio (20 mg/mL)
+0.293	B050131_Sulfato de magnesio (20 mg/mL)
+0.875	B050131_Sulfato de magnesio (20 mg/mL)
+0.374	B050131_Sulfato de magnesio (20 mg/mL)
+-0.739	B050131_Sulfato de magnesio (20 mg/mL)
+-0.245	B050131_Sulfato de magnesio (20 mg/mL)
+0.111	B050135_Bicarbonato de sodio  0.15 mEq/mL Solución inyectable (*)
+0.200	B050135_Bicarbonato de sodio  0.15 mEq/mL Solución inyectable (*)
+1.105	B050135_Bicarbonato de sodio  0.15 mEq/mL Solución inyectable (*)
+0.429	B050135_Bicarbonato de sodio  0.15 mEq/mL Solución inyectable (*)
+-0.500	B050135_Bicarbonato de sodio  0.15 mEq/mL Solución inyectable (*)
+-0.375	B050135_Bicarbonato de sodio  0.15 mEq/mL Solución inyectable (*)
+0.129	B050135_Bicarbonato de sodio  0.15 mEq/mL Solución inyectable (*)
+0.000	B050136_Electrolito Soporte (Metotrexate)
+0.961	B050136_Electrolito Soporte (Metotrexate)
+0.375	B050136_Electrolito Soporte (Metotrexate)
+-0.149	B050136_Electrolito Soporte (Metotrexate)
+-0.048	B050136_Electrolito Soporte (Metotrexate)
+0.500	B050136_Electrolito Soporte (Metotrexate)
+-0.333	B050137_Electrolito Soporte (Cisplatino)
+0.111	B050137_Electrolito Soporte (Cisplatino)
+0.622	B050137_Electrolito Soporte (Cisplatino)
+0.667	B050137_Electrolito Soporte (Cisplatino)
+-0.268	B050137_Electrolito Soporte (Cisplatino)
+-0.036	B050147_Cloruro de potasio 5/500 Mixto
+-0.164	B050147_Cloruro de potasio 5/500 Mixto
+1.381	B050147_Cloruro de potasio 5/500 Mixto
+0.961	B050147_Cloruro de potasio 5/500 Mixto
+0.136	B050147_Cloruro de potasio 5/500 Mixto
+0.000	B050220_Cloruro de POTASIO 2 mEq/mL [AR]
+3.000	B050220_Cloruro de POTASIO 2 mEq/mL [AR]
+0.500	B050220_Cloruro de POTASIO 2 mEq/mL [AR]
+-0.011	B050221_Cloruro de SODIO 2 mEq/mL [AR]
+	B050221_Cloruro de SODIO 2 mEq/mL [AR]
+	B050221_Cloruro de SODIO 2 mEq/mL [AR]
+0.000	B050221_Cloruro de SODIO 2 mEq/mL [AR]
+0.630	C010041_Norepinefrina 16 mcg/mL solución inyectable [*-AR]
+	C010041_Norepinefrina 16 mcg/mL solución inyectable [*-AR]
+	C010041_Norepinefrina 16 mcg/mL solución inyectable [*-AR]
+4.556	C010041_Norepinefrina 16 mcg/mL solución inyectable [*-AR]
+0.250	C010041_Norepinefrina 16 mcg/mL solución inyectable [*-AR]
+0.000	C020048_Clonidina 15mcg/mL suspensión oral
+0.000	D070088_Tópico No2 Crema
+0.000	D070088_Tópico No2 Crema
+-0.063	D070088_Tópico No2 Crema
+0.000	D070088_Tópico No2 Crema
+0.000	D070088_Tópico No2 Crema
+-0.416	J010281_Vancomicina 1g/250mL NaCl 0.9%
+-0.359	J010281_Vancomicina 1g/250mL NaCl 0.9%
+0.111	J010281_Vancomicina 1g/250mL NaCl 0.9%
+0.206	J010281_Vancomicina 1g/250mL NaCl 0.9%
+-0.455	J010281_Vancomicina 1g/250mL NaCl 0.9%
+-0.082	J010354_Aztreonam 2 g/100 mL NaCl 0.9% (*)
+0.017	J010354_Aztreonam 2 g/100 mL NaCl 0.9% (*)
+0.389	J010354_Aztreonam 2 g/100 mL NaCl 0.9% (*)
+1.632	J010354_Aztreonam 2 g/100 mL NaCl 0.9% (*)
+0.094	J010354_Aztreonam 2 g/100 mL NaCl 0.9% (*)
+-0.500	J010354_Aztreonam 2 g/100 mL NaCl 0.9% (*)
+0.154	J010354_Aztreonam 2 g/100 mL NaCl 0.9% (*)
+0.091	J010356_Cefepime 2g/100mL NaCl 0.9% (*)
+0.389	J010356_Cefepime 2g/100mL NaCl 0.9% (*)
+0.143	J010356_Cefepime 2g/100mL NaCl 0.9% (*)
+1.222	J010356_Cefepime 2g/100mL NaCl 0.9% (*)
+-0.028	J010356_Cefepime 2g/100mL NaCl 0.9% (*)
+0.714	J010356_Cefepime 2g/100mL NaCl 0.9% (*)
+-0.333	J010357_Vancomicina 1250 mg/500 mL de NaCl 0.9%
+0.000	J010357_Vancomicina 1250 mg/500 mL de NaCl 0.9%
+-0.111	J010357_Vancomicina 1250 mg/500 mL de NaCl 0.9%
+0.053	J010358_Clindamicina 600 mg/50 mL de NaCl 0.9% (*)
+0.127	J010358_Clindamicina 600 mg/50 mL de NaCl 0.9% (*)
+	J010358_Clindamicina 600 mg/50 mL de NaCl 0.9% (*)
+0.000	J010358_Clindamicina 600 mg/50 mL de NaCl 0.9% (*)
+0.098	J010358_Clindamicina 600 mg/50 mL de NaCl 0.9% (*)
+-0.231	M030075_Succinilcolina 100 mg/mL x 1 mL [*-AR]
+0.000	M030075_Succinilcolina 100 mg/mL x 1 mL [*-AR]
+0.000	M030075_Succinilcolina 100 mg/mL x 1 mL [*-AR]
+	M030075_Succinilcolina 100 mg/mL x 1 mL [*-AR]
+0.026	N010063_Propofol 1 % (*)
+-0.055	N010063_Propofol 1 % (*)
+0.695	N010063_Propofol 1 % (*)
+-0.160	N010063_Propofol 1 % (*)
+-0.393	N010063_Propofol 1 % (*)
+-0.266	N010063_Propofol 1 % (*)
+-0.048	N080095_Fentanilo Adulto 20mcg/mL [AR]
+0.143	N080095_Fentanilo Adulto 20mcg/mL [AR]
+	N080095_Fentanilo Adulto 20mcg/mL [AR]
+0.311	N080095_Fentanilo Adulto 20mcg/mL [AR]
+0.000	N080095_Fentanilo Adulto 20mcg/mL [AR]
+0.000	N080095_Fentanilo Adulto 20mcg/mL [AR]
+-0.271	N080118_Fentanilo CONCENTRADO 50 mcg/mL [AR]
+-0.062	N080118_Fentanilo CONCENTRADO 50 mcg/mL [AR]
+0.563	N080118_Fentanilo CONCENTRADO 50 mcg/mL [AR]
+0.220	N080118_Fentanilo CONCENTRADO 50 mcg/mL [AR]
+-0.363	N080118_Fentanilo CONCENTRADO 50 mcg/mL [AR]
+0.000	N080156_Ketamina 1 mg/mL bolsa x 250 mL [AR]
+0.000	N080156_Ketamina 1 mg/mL bolsa x 250 mL [AR]
+0.286	N080156_Ketamina 1 mg/mL bolsa x 250 mL [AR]
+0.077	N080156_Ketamina 1 mg/mL bolsa x 250 mL [AR]
+0.000	N080156_Ketamina 1 mg/mL bolsa x 250 mL [AR]
+	N080157_Ketamina 5 mg/mL - CONCENTRADA [AR]
+	N080157_Ketamina 5 mg/mL - CONCENTRADA [AR]
+0.099	N080157_Ketamina 5 mg/mL - CONCENTRADA [AR]
+0.031	N080157_Ketamina 5 mg/mL - CONCENTRADA [AR]
+0.075	N080181_Midazolam CONCENTRADO 2.5 mg/mL [AR]
+0.087	N080181_Midazolam CONCENTRADO 2.5 mg/mL [AR]
+5.486	N080181_Midazolam CONCENTRADO 2.5 mg/mL [AR]
+3.839	N080181_Midazolam CONCENTRADO 2.5 mg/mL [AR]
+-0.487	N080181_Midazolam CONCENTRADO 2.5 mg/mL [AR]
+-0.355	N080181_Midazolam CONCENTRADO 2.5 mg/mL [AR]
+4.000	N080181_Midazolam CONCENTRADO 2.5 mg/mL [AR]
+1.000	N080197_KETAMINA 10 mg/mL [AR]
+0.000	N080197_KETAMINA 10 mg/mL [AR]
+1.000	N080197_KETAMINA 10 mg/mL [AR]
+-0.174	N080205_Fentanilo 0.1 mg/2 mL Solución Inyectable Jeringa Precargada [AR]
+-0.274	N080205_Fentanilo 0.1 mg/2 mL Solución Inyectable Jeringa Precargada [AR]
+0.231	N080205_Fentanilo 0.1 mg/2 mL Solución Inyectable Jeringa Precargada [AR]
+0.062	N080205_Fentanilo 0.1 mg/2 mL Solución Inyectable Jeringa Precargada [AR]
+-0.725	N080205_Fentanilo 0.1 mg/2 mL Solución Inyectable Jeringa Precargada [AR]
+-0.269	N080205_Fentanilo 0.1 mg/2 mL Solución Inyectable Jeringa Precargada [AR]
+	R030067_Sodio 7% Solución para nebulizar
